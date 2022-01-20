@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">finalProject</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Me</string>
+    <string name="menu_parking">Cars</string>
+    <string name="homeHeader">Кокорин Никита Иванович</string>
+    <string name="homeBody">Студент направления МОАИС, группы Б9118-02.03.03техпро.</string>
+    <string name="homeBodySecond">Активность на github за последний год.</string>
+</resources>
